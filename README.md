@@ -23,3 +23,9 @@ git add ./
 git commit -m "add project"
 
 git commit -am "edit README"
+
+git remote add origin https://github.com/Stanislav-Wise/javarush_project.git
+git branch -M main
+git push -u origin main
+
+git pull
