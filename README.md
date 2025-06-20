@@ -31,7 +31,9 @@ git push -u origin main
 git pull
 
 Изменения 1
-Изменения 2
 
 Изменения 3
 Изменения 4
+
+1qaz
+
