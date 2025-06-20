@@ -42,3 +42,6 @@ git pull
 
 git log
 git log --oneline
+
+git branch
+git branch new7
