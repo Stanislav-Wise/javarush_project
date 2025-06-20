@@ -29,3 +29,6 @@ git branch -M main
 git push -u origin main
 
 git pull
+
+Изменения 1
+Изменения 2
